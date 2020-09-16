@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Sergei, I am a full-stack software engineer in the JavaScript domain. My life is tech and tech is my life. I enjoy writing efficient, clean code of high standard, as well as making crappy prototypes to validate ideas. Sometimes I [publish articles](https://gannochenko.dev/blog) on what I recently discovered, hoping to save somebody else's efforts.
+
+Besides coding I adore good XII-XIX century european brick architecture, as well as some modern one, so while travelling [I take photos here and there](https://www.instagram.com/gannochenko_arch/). I am also studying German, because, you know, I need that to survive in Germany^^. On top of that, right now I am learning investment and finance as a hobby. Who knows where it brings me, haha.
+
+So yeh, I am a passionate learner, in deep love with what I do. Currently I am based in Berlin, Germany, where I help great companies in making products of their customers dreams.
+
 <!--
 **gannochenko/gannochenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
